@@ -7,7 +7,7 @@ const navigationItems = [
   { label: "About Us" },
   { label: "Services" },
   { label: "Article" },
-  { label: "SIMUL" },
+  { label: "SIMUL", route: "/simulation" },
 ];
 
 const featuredArticles = [
